@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+## About me
 
-Maybe say a some things about yourself.
+Hi.  My name's Fyrezard aka Fyre and my fursona -- as expected -- is a blue-maned, brown Charizard.
 
-Or maybe what you plan to blog about.
+See my ref: <https://fyrezard.com/ref.png>
+
+This is a better way to host my blog rather than pay $12/mo for WP hosting.  Cheapskate, I know :)
