@@ -5,4 +5,4 @@ Hi.  My name's Fyrezard aka Fyre and my fursona -- as expected -- is a blue-mane
 This is a better way to host my blog rather than pay $12/mo for WP hosting.  Cheapskate, I know :)
 
 Contact:
-ok [at] fyrezard [dot] com
+blog [at] fyrezard [dot] com
